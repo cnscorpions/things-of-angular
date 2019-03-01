@@ -35,9 +35,12 @@ NullInjectorError: No provider for ...
 > ng5之后，要引入httpClientModule，并且注入httpClient服务才能使用网络服务
 
 13. ERROR Error: No component factory found for * . Did you add it to @NgModule.entryComponents? -angularjs
-> 使用场景：add dynamically created components to entryComponents inside your @NgModule 动态创建组件；在父级组件中的元数据配置一下即可，如下；In some cases entryComponents under lazy loaded modules will not work,
+> 使用场景：add dynamically created components to entryComponents inside your @NgModule 动态创建组件；在父级组件中的元数据配置一下即可，如下；
+![entry component](图片/动态创建组件.png)
+> In some cases entryComponents under lazy loaded modules will not work,
 as a workaround put them in your app.module (root)
 在懒加载模块中可能不会生效
+
 
 14. Error: ExpressionChangedAfterItHasBeenCheckedError: Expression has changed after it was checked.
 > change detect造成了，所以可以从这方面处理，使用onpush + changeDetectRef
@@ -66,6 +69,3 @@ npm安装phantomjs不成功，咋整？
 > 老版本的都没有办法 😞，弃了
 
 20. 使用loadChildren实现懒加载的时候，一切都似乎配置正确，但是页面上似乎没有显示内容
-
-
-
