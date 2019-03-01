@@ -35,10 +35,8 @@ NullInjectorError: No provider for ...
 > ng5之后，要引入httpClientModule，并且注入httpClient服务才能使用网络服务
 
 13. ERROR Error: No component factory found for * . Did you add it to @NgModule.entryComponents? -angularjs
-> 使用场景：add dynamically created components to entryComponents inside your @NgModule 动态创建组件；在父级组件中的元数据配置一下即可，如下；
-<br/>
-![entry component](图片/动态创建组件.png)
-<br/>
+> 使用场景：add dynamically created components to entryComponents inside your @NgModule 动态创建组件；在父级组件中的元数据配置一下即可，如下；<br/>
+![entry component](图片/动态创建组件.png)<br/>
 In some cases entryComponents under lazy loaded modules will not work,
 as a workaround put them in your app.module (root)
 在懒加载模块中可能不会生效
