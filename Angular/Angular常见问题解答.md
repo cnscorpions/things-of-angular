@@ -39,7 +39,7 @@ NullInjectorError: No provider for ...
 <br/>
 ![entry component](图片/动态创建组件.png)
 <br/>
-> In some cases entryComponents under lazy loaded modules will not work,
+In some cases entryComponents under lazy loaded modules will not work,
 as a workaround put them in your app.module (root)
 在懒加载模块中可能不会生效
 
