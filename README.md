@@ -5,8 +5,8 @@
 
 ### Angular
 ---
-1. [Angular 学习资料汇总][1]
-2. Angular 常见问题Trouble Shooting
+1. Angular 学习资料汇总
+2. [Angular 常见问题Trouble Shooting][1]
 3. 
 
 ### Typescript
