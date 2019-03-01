@@ -69,3 +69,15 @@ npm安装phantomjs不成功，咋整？
 > 老版本的都没有办法 😞，弃了
 
 20. 使用loadChildren实现懒加载的时候，一切都似乎配置正确，但是页面上似乎没有显示内容
+> 懒加载的模块中，路由配置为path: ''
+
+21. response.json is not a function 
+> Angular2 之后的版本中Http Client模块中已经默认调用了res.json()方法了，不需要手动调用
+new http client by default calls res.json() implicitly and you don't need to that manually yourself
+
+22. component中变量的值改变了，对应视图上没有刷新
+> 1. 元数据中配置changeDetection: ChangeDetectionStrategy.OnPush
+> 2. 依赖注入private cdr: ChangeDetectorRef
+> 3. 调用cdr.markForCheck()方法 ---> 告知angular执行change detection
+
+<center> 未完待续...
