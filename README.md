@@ -1,9 +1,13 @@
-# things-of-angular
 
-> 面向初学者分享Angular生态中一些知识，以实际的代码实例或者web IDE上
+# Things-of-angular
+
+> 面向Ng初学者，也欢迎大佬拍砖
 
 ### Angular
 ---
+1. Angular 学习资料汇总
+2. Angular 常见问题Trouble Shooting
+3. 
 
 ### Typescript
 ---
@@ -14,8 +18,14 @@
 ### Ionic
 ---
 
-### Design Pattern
+### 设计模式
 ---
 
 ### Ngrx
+---
+
+### 写作
+---
+
+### 其他
 ---
