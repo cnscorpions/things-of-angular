@@ -2,6 +2,7 @@
 # Things-of-angular
 
 > 面向Ng初学者，也欢迎大佬拍砖
+> 环境参数：os win10; node v8.11.2; npm 5.6.0; Angular cli 7.3.4
 
 ### Angular
 ---
