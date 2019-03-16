@@ -1,7 +1,29 @@
 
 # Angular中如何引入第三方库
 
+## 前言
+---
+在Angular中，typescript是作为一等公民存在的，而在ts中使用第三方库的时候，Type Definition File是绕不过去的。但是ts官方和社区只对流行的一些库编写了类型声明文件，如果有类型声明文件怎么用起来？要是没有，怎么写？卡色大佬的[Angular 如何使用第三方库](3)很有条理地讲清楚了以上两个问题，我也不做多余的赘述，所以本文主要从实际的demo入手，叫你一步，两步...
+
+## 必要性
+
+> Declaration files, if you're not familiar, are just files that describe the shape of an existing JavaScript codebase to TypeScript. By using declaration files (also called .d.ts files), you can avoid misusing libraries and get things like completions in your editor. --- From Microsoft Devblogs
+
+提炼一下如下：
+- 提供类型声明，避免库的误用
+- 编辑器的补全功能(这个不能没有:D)
+
+## 如何引入第三方库
+
+1. 有类型声明文件(分离出@types/)
+2. 有类型声明(隐性)
+3. 完全没有类型声明
+
+## Ts
+
 参考文档：
 1. https://www.typescriptlang.org/docs/handbook/declaration-files/consumption.html
-2. https://zhuanlan.zhihu.com/p/35796451
-  
+2. https://devblogs.microsoft.com/typescript/writing-dts-files-for-types/
+3. https://zhuanlan.zhihu.com/p/35796451
+4. https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types
+5. https://www.detroitlabs.com/blog/2018/02/28/adding-custom-type-definitions-to-a-third-party-library/
