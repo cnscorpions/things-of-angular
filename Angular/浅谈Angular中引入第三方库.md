@@ -23,8 +23,8 @@
 ---
 1. 检查有没有@types/文件
 > 在[TypeSearch](6)(实际上，TypeSearch的数据来源于[DefinitelyTyped](4))去搜索一下包的关键词，例如下图：
-> ![TypeSearch](./图片/TypeSearch.png)
-> ![npm install type module](./图片/npm-install-command.png)
+> ![TypeSearch](./图片/TypeSearch.png){:height="50%" width="50%"}
+> ![npm install type module](./图片/npm-install-command.png){:height="50%" width="50%"}
 2. 有@types/文件情况下引入且使用
 
 3. 没有@types/文件情况下，怎么引入和使用 
