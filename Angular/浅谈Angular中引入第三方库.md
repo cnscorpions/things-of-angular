@@ -25,12 +25,12 @@
 > 在[TypeSearch](6)(实际上，TypeSearch的数据来源于[DefinitelyTyped](4))去搜索一下包的关键词，例如下图：
 > <img src="./图片/TypeSearch.png" width="300" height="200" alt="TypeSearch" />
 2. 有@types/文件情况下引入且使用
-    a. 以引入echarts为例，`npm install/yarn add echarts`
-    b. 直接安装@types/文件(因为已经知道它有了)，`npm install/yarn add @types/echarts`
-    c. 组建类代码如下:
+    2.1 以引入echarts为例，`npm install/yarn add echarts`
+    2.2 直接安装@types/文件(因为已经知道它有了)，`npm install/yarn add @types/echarts`
+    2.3 组建类代码如下:
     <img src="./图片/code-snippet-01.svg" />
-    d. 模板代码:
-    
+    2.4 模板代码:
+
 3. 没有@types/文件情况下，怎么引入和使用 
 
 <br/>
