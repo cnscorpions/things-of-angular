@@ -5,7 +5,7 @@
 
 ## 前言
 ---
-在Angular中，typescript是作为一等公民存在的，而在ts中使用第三方库的时候，Type Definition File是绕不过去的。但是ts官方和社区只对流行的一些库编写了类型声明文件，如果有类型声明文件怎么用起来？要是没有，怎么写？:fearful:卡色大佬的[Angular 如何使用第三方库](3)很有条理地讲清楚了以上两个问题，我也不做多余的赘述，所以本文主要从实际的demo入手，叫你一步，两步...,像魔鬼的步伐:stuck_out_tongue_winking_eye:
+在Angular中，typescript是作为一等公民存在的，而在ts中使用第三方库的时候，Type Definition File是绕不过去的。但是ts官方和社区只对流行的一些库编写了类型声明文件，如果有类型声明文件怎么用起来？要是没有:fearful:，怎么写？卡色大佬的[Angular 如何使用第三方库](3)很有条理地讲清楚了以上两个问题，我也不做多余的赘述，所以本文主要从实际的demo入手，叫你一步，两步...,像魔鬼的步伐:stuck_out_tongue_winking_eye:
 
 <br/>
 
@@ -22,15 +22,12 @@
 ## 如何引入第三方库
 ---
 1. 检查有没有@types/文件
-> 在[TypeSearch](6)(实际上，TypeSearch的数据来源于[DefinitelyTyped](4))去搜索一下包的关键词
+> 在[TypeSearch](6)(实际上，TypeSearch的数据来源于[DefinitelyTyped](4))去搜索一下包的关键词，例如下图：
+> ![TypeSearch](./图片/TypeSearch.png)
+> ![npm install type module](./图片/npm-install-command.png)
 2. 有@types/文件情况下引入且使用
 
-3. 没有@types/文件情况下，怎么引入和使用
-
-<br/>
-
-## Typescript
----
+3. 没有@types/文件情况下，怎么引入和使用 
 
 <br/>
 
