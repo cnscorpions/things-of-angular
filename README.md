@@ -9,7 +9,7 @@
 1. 史上最全Angular学习资料汇总
 2. [Angular 常见问题Trouble Shooting][1]
 3. [浅谈Angular引入第三方库][2]
-4. Angular搞定拖拽组件
+4. 搞定Angular拖拽组件
 5. Angular动画
 6. Angular自定义一个表单控件
 7. vscode调试Angular项目
