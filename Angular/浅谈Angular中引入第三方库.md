@@ -3,7 +3,7 @@
 
 ## 前言
 ---
-在Angular中，typescript是作为一等公民存在的，而在ts中使用第三方库的时候，Type Definition File是绕不过去的。但是ts官方和社区只对流行的一些库编写了类型声明文件，如果有类型声明文件怎么用起来？要是没有，怎么写？卡色大佬的[Angular 如何使用第三方库](3)很有条理地讲清楚了以上两个问题，我也不做多余的赘述，所以本文主要从实际的demo入手，叫你一步，两步...
+在Angular中，typescript是作为一等公民存在的，而在ts中使用第三方库的时候，Type Definition File是绕不过去的。但是ts官方和社区只对流行的一些库编写了类型声明文件，如果有类型声明文件怎么用起来？要是没有，怎么写？:fearful:卡色大佬的[Angular 如何使用第三方库](3)很有条理地讲清楚了以上两个问题，我也不做多余的赘述，所以本文主要从实际的demo入手，叫你一步，两步...,像魔鬼的步伐:stuck_out_tongue_winking_eye:
 
 ## 必要性
 
@@ -15,9 +15,10 @@
 
 ## 如何引入第三方库
 
-1. 有类型声明文件(分离出@types/)
-2. 有类型声明(隐性)
-3. 完全没有类型声明
+1. 检查有没有@types/文件
+2. 有@types/文件情况下引入且使用
+3. 没有@types/文件情况下，怎么引入和使用
+   
 
 ## Ts
 
@@ -27,3 +28,4 @@
 3. https://zhuanlan.zhihu.com/p/35796451
 4. https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types
 5. https://www.detroitlabs.com/blog/2018/02/28/adding-custom-type-definitions-to-a-third-party-library/
+6. https://microsoft.github.io/TypeSearch/
