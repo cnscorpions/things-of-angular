@@ -1,5 +1,5 @@
 
-# <center> Angular中如何引入第三方库
+# Angular中如何引入第三方库
 
 <br/>
 
@@ -22,7 +22,9 @@
 ## 如何引入第三方库
 ---
 1. 检查有没有@types/文件
+> 在[TypeSearch](6)(实际上，TypeSearch的数据来源于[DefinitelyTyped](4))去搜索一下包的关键词
 2. 有@types/文件情况下引入且使用
+
 3. 没有@types/文件情况下，怎么引入和使用
 
 <br/>
