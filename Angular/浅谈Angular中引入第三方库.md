@@ -29,9 +29,9 @@
     - 直接安装@types/文件(因为已经知道它有了)，`npm install/yarn add @types/echarts`
     - 组建类代码如下:
     <img src="./图片/code-snippet-01.svg" /><br/>
-    - 模板代码:
+    - 模板代码:<br/>
     ![模板](./图片/code-snippet-02.png)
-    - 效果如下，bingo
+    - 效果如下，bingo<br/>
     ![echarts](./图片/echarts.png)
 3. 没有@types/文件情况下，怎么引入和使用 
 
@@ -39,7 +39,7 @@
 
 ## Typescript :fuelpump:
 
-
+<br/>
 
 ## 参考文档
 ---
