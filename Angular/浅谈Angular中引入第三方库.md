@@ -34,6 +34,12 @@
     - 效果如下，bingo<br/>
     ![echarts](./图片/echarts.png)
 3. 没有@types/文件情况下，怎么引入和使用 
+    - 以scrollMagic为例，`npm install scrollmagic`
+    - 在node_modules/@types下新建scrollmagic/index.d.ts(*.d.ts即Type Definition File)
+    - 在index.d.ts中用`declare`全局声明`scrollmagic`
+    > `declare module 'scrollmagic';`
+    - 组建类代码如下:
+    <img src="./图片/code-snippet-03.svg" />
 
 <br/>
 
