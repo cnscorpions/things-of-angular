@@ -40,10 +40,12 @@
     > `declare module 'scrollmagic';`
     - 组建类代码如下:
     <img src="./图片/code-snippet-03.svg" />
+    - 运行demo，会在console看到有示例被打印出来了
 
 <br/>
 
 ## Typescript :fuelpump:
+...
 
 <br/>
 
