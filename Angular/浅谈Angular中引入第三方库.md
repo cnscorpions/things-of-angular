@@ -28,7 +28,7 @@
     - 以引入echarts为例，`npm install/yarn add echarts`
     - 直接安装@types/文件(因为已经知道它有了)，`npm install/yarn add @types/echarts`
     - 组建类代码如下:
-    <img src="./图片/code-snippet-01.svg" width="602" height="304"/><br/>
+    <img src="./图片/code-snippet-01.svg" /><br/>
     - 模板代码:
 
 3. 没有@types/文件情况下，怎么引入和使用 
