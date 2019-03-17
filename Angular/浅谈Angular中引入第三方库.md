@@ -30,12 +30,18 @@
     - 组建类代码如下:
     <img src="./图片/code-snippet-01.svg" /><br/>
     - 模板代码:
-
+    ![模板](./图片/code-snippet-02.png)
+    - 效果如下，bingo
+    ![echarts](./图片/echarts.png)
 3. 没有@types/文件情况下，怎么引入和使用 
 
 <br/>
 
-### 参考文档
+## Typescript :fuelpump:
+
+
+
+## 参考文档
 ---
 1. https://www.typescriptlang.org/docs/handbook/declaration-files/consumption.html
 2. https://devblogs.microsoft.com/typescript/writing-dts-files-for-types/
