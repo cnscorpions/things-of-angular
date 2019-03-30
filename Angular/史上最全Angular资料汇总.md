@@ -84,7 +84,7 @@
 - 各个repo的issue区
 - 钉钉群
   - Ng zorro
-    > <img src="../Angular/图片/zorro钉钉群.jpg" width="436px" height="575px" /><br/>
+    > <img src="../Angular/图片/zorro钉钉群.jpg" width="300px" height="395px" /><br/>
     > Ng-zorro已经成为了Angular最受欢迎的UI库之一，被很多前端兄弟们用到了公司项目中去，这个钉钉群里面有作者和他的团队来答疑解惑，很值得加入
   - Ng Zorro mobile
 - QQ群(为什么没有ng的微信群？)
