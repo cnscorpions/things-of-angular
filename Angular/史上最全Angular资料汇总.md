@@ -70,11 +70,15 @@
 > 这个老叔的gitchat给我最大的印象是花了很大的篇幅来讲怎么写测试代码<br/>
 > 推荐指数：:star::star::star:(使用cordova的ionic比不了RN, 连新晋的flutter...，要离坑喽)
 
+<br/>
+
 #### ng视频教程
 - [Angular 4.0从入门到实战 打造股票管理网站](https://coding.imooc.com/class/94.html)
 - [Angular 打造企业级协作平台](https://coding.imooc.com/class/123.html)
 > 前者偏向入门，把ng的基本点路由，组件，服务等都覆盖到了，后者偏向进阶，讲清楚了包括自定义拖拽指令，rxjs常用操作符，redux状态管理等<br/>
 > 推荐指数：:star::star::star:(视频1.5倍速，感觉效率还是不如纸质资料，尽管能看到编程细节，这里有我个人偏向性)
+
+<br/>
 
 #### ng社交媒体
 - 各个repo的issue区
@@ -84,4 +88,3 @@
     > Ng-zorro已经成为了Angular最受欢迎的UI库之一，被很多前端兄弟们用到了公司项目中去，这个钉钉群里面有作者和他的团队来答疑解惑，很值得加入
   - Ng Zorro mobile
 - QQ群(为什么没有ng的微信群？)
-
