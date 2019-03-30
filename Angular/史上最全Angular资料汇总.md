@@ -2,7 +2,7 @@
 # 史上最全Angular资料汇总
 
 📄 A curated list of awesome... 多么熟悉的开头，感觉瞬间:scream:，
-标题党了有木有，我尽量把列漏掉的Angular中文学习资料贴出来，英文资料:point_right:[awesome-angular](https://github.com/PatrickJS/awesome-angular)
+标题党了有木有，我**尽量**把列漏掉的Angular中文学习资料贴出来，英文资料:point_right:[awesome-angular](https://github.com/PatrickJS/awesome-angular)
 
 [![Build Status](https://travis-ci.org/AngularClass/awesome-angular.svg?branch=gh-pages)](https://travis-ci.org/AngularClass/awesome-angular)
 
@@ -11,6 +11,9 @@
 目录
 - [Angular](#angular)
   - [书籍](#ng书籍)
+  - [gitchat](#ng-gitchat)
+  - [视频教程](#ng视频教程)
+  - [论坛/钉钉/QQ群](#ng社交媒体)
 - Material Design
 - Typescript
 - Rxjs
@@ -24,5 +27,16 @@
 #### ng书籍
 - Angular权威教程
 > <img src="../Angular/图片/Angular权威教程.jpg" width="200px" height="251px" /><br/>
-> 应该是中文唯一值得看的ng书籍了，偏基础，非常适合入门，其中讲数据架构的那一章很精彩<br/>
+> 应该是中文唯一值得看的ng书籍了，基于ng2，偏基础，非常适合入门，其中讲数据架构的那一章很精彩(英文版已经出了ng6的版本:smirk:)<br/>
 > 推荐指数：:star::star::star::star::star:
+
+- Angular 6 for Enterprise-Ready Web Applications
+> <img src="../Angular/图片/Angular6-for-enterprise-ready-web-apps.png" width="200px" height="246px" /><br/>
+> 由Packt出版社出版(这家关注于IT电子书出版，书一般都偏向实操类的)，这本书通过两个例子，详细地讲解了ng开发的方方面面，可以从中学习到很多开发技巧和ng开发知识，例如怎么换ng项目的favicon，需要注明版本`href="favicon.ico?v=2"`，
+> 还有怎么编写测试代码，使用Angury的技巧等等<br/>
+> 推荐指数：:star::star::star::star:(非中文，所以少一颗芯)
+
+- Angular Design Patterns
+
+
+#### ng gitchat
