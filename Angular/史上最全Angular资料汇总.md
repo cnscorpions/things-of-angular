@@ -42,9 +42,29 @@
 
 - Angular Design Patterns
 > <img src="../Angular/图片/Angular Design Pattern.png" width="200px" height="246px" /><br/>
-> Packt出版社出版，全书基于ts来实现Angular中的一些设计模式，如单例模式，工厂模式，跟讲ts设计模式的文章可能有会一些重合，用简单的ts代码来实现最小的**观察/订阅模式**, **MVC模式**等，还有点小激动:heart_eyes:
+> Packt出版社出版，全书基于ts来实现Angular中的一些设计模式，如单例模式，工厂模式，跟讲ts设计模式的文章可能有会一些重合，用简单的ts代码来实现最小的**观察/订阅模式**, **MVC模式**等，还有点小激动:heart_eyes:<br/>
 > 推荐指数：:star::star::star::star:(非中文，所以少一颗芯)
 
 <br/>
 
 #### ng gitchat
+- Angular 初学者快速上手教程
+> <img src="../Angular/图片/前端恶棍.jpg" width="437px" height="246px" /><br/>
+> 由前端恶棍，喔:sweat_smile:，不是，大漠老师倾情出品，整个chat基于ng5, 非常精炼，指出了初学者可能遇到的一些坑，提供了示例代码，值得反复看一看<br/>
+> 推荐指数：:star::star::star::star:(毕竟太短了，不要被打:cold_sweat:)
+
+<br/>
+
+- Angular 基础教程（7.0）
+- <img src="../Angular/图片/Angular基础入门.jpg" width="437px" height="246px" /><br/>
+- 还是那个大漠老师，心疼他的发量:grin:，，这个我没卖，不过看简介，应该融入了新特性
+- 推荐指数：待定
+
+<br/>
+
+- Ionic 3 实战开发指南
+> <img src="../Angular/图片/ionic3实战.jpg" width="436px" height="246px" /><br/>
+> 这个老叔的gitchat给我最大的印象是花了很大的篇幅来讲怎么写测试代码<br/>
+> 推荐指数：:star::star::star:(使用cordova的ionic比不了RN, 连新晋的flutter...，要离坑喽)
+
+#### ng视频教程
