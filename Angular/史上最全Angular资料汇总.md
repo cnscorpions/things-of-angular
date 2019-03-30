@@ -23,7 +23,6 @@
 
 #### ng书籍
 - Angular权威教程
-<img src="../Angular/图片/Angular权威教程.jpg" width="200px" height="251px" />
-> 应该是中文唯一值得看的ng书籍了，偏基础，非常适合入门，其中讲数据架构的那一章很精彩
+> <img src="../Angular/图片/Angular权威教程.jpg" width="200px" height="251px" /><br/>
+> 应该是中文唯一值得看的ng书籍了，偏基础，非常适合入门，其中讲数据架构的那一章很精彩<br/>
 > 推荐指数：:star::star::star::star::star:
-
