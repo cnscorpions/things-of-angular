@@ -9,12 +9,21 @@
 > VTHINKXIE所写的[Angular资料获取不完全指南](https://zhuanlan.zhihu.com/p/36385830)和Angular官网的[资源](https://angular.cn/resources)基本已经覆盖了大部分的资料，本文仅作为补充
 
 目录
-- Angular
-  - 博客
-  - 论坛/QQ群
-  - Gitchat
-  - 书籍
+- [Angular](#angular)
+  - [书籍]()
+- Material Design
 - Typescript
 - Rxjs
 - Ngrx
 - Ionic
+
+### Angular
+
+> Angular is a development platform for building mobile and desktop web applications.
+
+#### ng书籍
+- Angular权威教程
+<img src="../Angular/图片/Angular权威教程.jpg" width="200px" height="251px" />
+> 应该是中文唯一值得看的ng书籍了，偏基础，非常适合入门，其中讲数据架构的那一章很精彩
+> 推荐指数：:star::star::star::star::star:
+
