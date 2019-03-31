@@ -46,3 +46,4 @@
 [4]: https://github.com/cnscorpions/things-of-angular/blob/master/Angular/%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%85%A8Angular%E8%B5%84%E6%96%99%E6%B1%87%E6%80%BB.md
 [5]: https://github.com/cnscorpions/things-of-angular/blob/master/Angular/%E4%BD%BF%E7%94%A8Angular%20Element%E8%87%AA%E5%AE%9A%E4%B9%89%E4%B8%80%E4%B8%AAhtml%E6%A0%87%E7%AD%BE.md
 [6]: https://github.com/cnscorpions/things-of-angular/blob/master/Ionic/Ionic4%20%E5%80%BC%E5%BE%97%E8%AF%B4%E9%81%93%E7%9A%84%E6%96%B0%E7%89%B9%E6%80%A7.md
+[7]: https://github.com/cnscorpions/things-of-angular/blob/master/Ionic/Ionic%E5%AE%9E%E7%8E%B0%E5%A4%9A%E8%AF%AD%E8%A8%80%E6%94%AF%E6%8C%81.md
