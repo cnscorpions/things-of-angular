@@ -4,6 +4,8 @@
 > 面向Ng初学者，也欢迎大佬拍砖<br/>
 > 环境参数：os win10;<br/> node v8.11.2;<br/> npm 5.6.0;<br/> Angular cli 7.3.4
 
+<br/>
+
 ### Angular > 7+
 ---
 1. [史上最全Angular学习资料汇总][4]
@@ -15,31 +17,46 @@
 7. vscode调试Angular项目
 8. Angular自定义一个拖拽指令
 9. [使用Angular Element自定义一个html标签][5]
-10. 
+
+<br/>
 
 ### Typescript
 ---
 
+<br/>
+
 ### Rxjs
 ---
 1. [20个小栗子入门rxjs][8]
+
+<br/>
 
 ### Ionic
 ---
 1. [Ionic4 值得说道的新特性][6]
 2. [Ionic4 + ngx/translate实现多语言支持][7]
 
+<br/>
+
 ### 设计模式
 ---
+
+<br/>
 
 ### Ngrx
 ---
 
+<br/>
+
 ### 写作
 ---
 
+<br/>
+
 ### 其他
 ---
+
+<br/>
 
 [1]: https://github.com/cnscorpions/things-of-angular/blob/master/Angular/Angular%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94.md
 [2]: https://github.com/cnscorpions/things-of-angular/blob/master/Angular/%E6%B5%85%E8%B0%88Angular%E4%B8%AD%E5%BC%95%E5%85%A5%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93.md
